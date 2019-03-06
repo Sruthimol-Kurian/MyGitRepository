@@ -3,6 +3,7 @@
 
 public static void main(){
 	int a;
+	int b;
 	printf("Hello World\n");
 	printf("This is a sample C program\n");
 
